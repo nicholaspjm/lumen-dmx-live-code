@@ -7,4 +7,3 @@ dist/
 Thumbs.db
 *.log
 .vite/
-.claude/
